@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dark
 title: My First Post on Jekyll
 tags: first markdown example
 categories: demo
